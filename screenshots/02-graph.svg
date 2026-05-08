@@ -1,0 +1,32 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#07101C"/>
+  <rect x="36" y="32" width="1368" height="836" rx="30" fill="#0D1122" stroke="#26314D"/>
+  <text x="86" y="104" fill="#8FDBFF" font-family="Arial, sans-serif" font-size="22" letter-spacing="6">RELATIONSHIP SURFACE</text>
+  <text x="86" y="176" fill="#F4F0DC" font-family="Georgia, serif" font-size="60" font-weight="700">Nodes, edges, and pressure paths.</text>
+  <rect x="86" y="220" width="1268" height="582" rx="26" fill="#0A1425" stroke="#1F3656"/>
+  <path d="M290 398 Q515 170 702 246" stroke="#4CE0FF" stroke-width="4"/>
+  <path d="M702 246 Q896 188 1088 338" stroke="#7EF4A5" stroke-width="4"/>
+  <path d="M1088 338 Q1130 470 1034 570" stroke="#B187FF" stroke-width="4"/>
+  <path d="M1034 570 Q844 640 634 620" stroke="#FF7AA7" stroke-width="4"/>
+  <path d="M634 620 Q456 670 290 398" stroke="#7EF4A5" stroke-width="4"/>
+  <rect x="192" y="330" width="196" height="132" rx="22" fill="#111C32" stroke="#14B8A6"/>
+  <rect x="606" y="182" width="214" height="136" rx="22" fill="#111C32" stroke="#4CE0FF"/>
+  <rect x="970" y="276" width="228" height="136" rx="22" fill="#111C32" stroke="#7EF4A5"/>
+  <rect x="914" y="518" width="228" height="136" rx="22" fill="#111C32" stroke="#B187FF"/>
+  <rect x="520" y="560" width="228" height="144" rx="22" fill="#111C32" stroke="#FF7AA7"/>
+  <text x="224" y="372" fill="#9DDCDC" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">STRATEGIC ACCOUNT</text>
+  <text x="224" y="414" fill="#F4F0DC" font-family="Georgia, serif" font-size="32" font-weight="700">Northstar Cloud</text>
+  <text x="224" y="446" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">$1.8M ARR</text>
+  <text x="636" y="226" fill="#9DDCDC" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">USAGE SIGNAL</text>
+  <text x="636" y="268" fill="#F4F0DC" font-family="Georgia, serif" font-size="32" font-weight="700">Product adoption pulse</text>
+  <text x="636" y="300" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">+14% workflow depth</text>
+  <text x="1000" y="320" fill="#9DDCDC" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">LIFECYCLE SIGNAL</text>
+  <text x="1000" y="362" fill="#F4F0DC" font-family="Georgia, serif" font-size="32" font-weight="700">Operator nurture stream</text>
+  <text x="1000" y="394" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">37% reactivation lift</text>
+  <text x="944" y="562" fill="#9DDCDC" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">CHANNEL SIGNAL</text>
+  <text x="944" y="604" fill="#F4F0DC" font-family="Georgia, serif" font-size="32" font-weight="700">Partner influence lane</text>
+  <text x="944" y="636" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">2 sourced expansions</text>
+  <text x="548" y="606" fill="#9DDCDC" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">RISK CLUSTER</text>
+  <text x="548" y="648" fill="#F4F0DC" font-family="Georgia, serif" font-size="32" font-weight="700">Renewal trust watch</text>
+  <text x="548" y="680" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">-9 NPS delta</text>
+</svg>
