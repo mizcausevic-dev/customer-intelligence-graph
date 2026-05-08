@@ -16,40 +16,52 @@
   <text x="578" y="312" fill="#D8E5FF" font-family="Arial, sans-serif" font-size="20">Success + Support</text>
   <text x="1014" y="312" fill="#D8E5FF" font-family="Arial, sans-serif" font-size="20">Growth + RevOps</text>
 
-  <text x="118" y="382" fill="#F4F0DC" font-family="Georgia, serif" font-size="40" font-weight="700">Expansion thread</text>
-  <text x="554" y="382" fill="#F4F0DC" font-family="Georgia, serif" font-size="40" font-weight="700">Trust recovery thread</text>
-  <text x="990" y="382" fill="#F4F0DC" font-family="Georgia, serif" font-size="40" font-weight="700">Attribution thread</text>
+  <text x="118" y="380" fill="#F4F0DC" font-family="Georgia, serif" font-size="34" font-weight="700">
+    <tspan x="118" dy="0">Expansion</tspan>
+    <tspan x="118" dy="36">thread</tspan>
+  </text>
+  <text x="554" y="380" fill="#F4F0DC" font-family="Georgia, serif" font-size="34" font-weight="700">
+    <tspan x="554" dy="0">Trust recovery</tspan>
+    <tspan x="554" dy="36">thread</tspan>
+  </text>
+  <text x="990" y="380" fill="#F4F0DC" font-family="Georgia, serif" font-size="34" font-weight="700">
+    <tspan x="990" dy="0">Attribution</tspan>
+    <tspan x="990" dy="36">thread</tspan>
+  </text>
 
-  <text x="118" y="438" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="24">
+  <text x="118" y="462" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">
     <tspan x="118" dy="0">Usage depth, workflow automation, and</tspan>
-    <tspan x="118" dy="34">partner advocacy are clustering around</tspan>
-    <tspan x="118" dy="34">two enterprise teams with budget authority.</tspan>
+    <tspan x="118" dy="30">partner advocacy are clustering around</tspan>
+    <tspan x="118" dy="30">two enterprise teams with budget authority.</tspan>
   </text>
 
-  <text x="554" y="438" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="24">
+  <text x="554" y="462" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">
     <tspan x="554" dy="0">Support friction is compressing adoption</tspan>
-    <tspan x="554" dy="34">confidence in the same cohort where</tspan>
-    <tspan x="554" dy="34">renewal conversations open in 41 days.</tspan>
+    <tspan x="554" dy="30">confidence in the same cohort where</tspan>
+    <tspan x="554" dy="30">renewal conversations open in 41 days.</tspan>
   </text>
 
-  <text x="990" y="438" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="24">
+  <text x="990" y="462" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">
     <tspan x="990" dy="0">Partner influence is amplifying</tspan>
-    <tspan x="990" dy="34">downstream conversion quality more</tspan>
-    <tspan x="990" dy="34">than paid search alone.</tspan>
+    <tspan x="990" dy="30">downstream conversion quality more</tspan>
+    <tspan x="990" dy="30">than paid search alone.</tspan>
   </text>
 
-  <text x="118" y="654" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="26" font-weight="700">
-    <tspan x="118" dy="0">Recommend expansion packaging</tspan>
-    <tspan x="118" dy="34">and sponsor activation.</tspan>
+  <text x="118" y="646" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="24" font-weight="700">
+    <tspan x="118" dy="0">Recommend expansion</tspan>
+    <tspan x="118" dy="30">packaging and</tspan>
+    <tspan x="118" dy="30">sponsor activation.</tspan>
   </text>
 
-  <text x="554" y="654" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="26" font-weight="700">
-    <tspan x="554" dy="0">Route to a recovery playbook and</tspan>
-    <tspan x="554" dy="34">pause the high-friction lanes.</tspan>
+  <text x="554" y="646" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="24" font-weight="700">
+    <tspan x="554" dy="0">Route to a recovery</tspan>
+    <tspan x="554" dy="30">playbook and pause</tspan>
+    <tspan x="554" dy="30">the high-friction lanes.</tspan>
   </text>
 
-  <text x="990" y="654" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="26" font-weight="700">
-    <tspan x="990" dy="0">Reweight sourcing credit and</tspan>
-    <tspan x="990" dy="34">shift budget toward assisted expansion.</tspan>
+  <text x="990" y="646" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="24" font-weight="700">
+    <tspan x="990" dy="0">Reweight sourcing credit</tspan>
+    <tspan x="990" dy="30">and shift budget toward</tspan>
+    <tspan x="990" dy="30">assisted expansion.</tspan>
   </text>
 </svg>
