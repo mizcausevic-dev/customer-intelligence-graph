@@ -65,11 +65,11 @@ Additional implementation notes live in [docs/architecture.md](./docs/architectu
 
 ### Narrative Threads
 
-![Narrative threads](https://raw.githubusercontent.com/mizcausevic-dev/customer-intelligence-graph/project/customer-intelligence-graph/screenshots/03-threads.svg)
+![Narrative threads](https://raw.githubusercontent.com/mizcausevic-dev/customer-intelligence-graph/project/customer-intelligence-graph/screenshots/03-threads-v2.svg)
 
 ### Signal Board
 
-![Signal board](https://raw.githubusercontent.com/mizcausevic-dev/customer-intelligence-graph/project/customer-intelligence-graph/screenshots/04-signals.svg)
+![Signal board](https://raw.githubusercontent.com/mizcausevic-dev/customer-intelligence-graph/project/customer-intelligence-graph/screenshots/04-signals-v2.svg)
 
 ## Running Locally
 

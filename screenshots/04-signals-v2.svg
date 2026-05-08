@@ -1,0 +1,60 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#07101A"/>
+  <rect x="36" y="32" width="1368" height="836" rx="30" fill="#0D1122" stroke="#26314D"/>
+  <text x="86" y="104" fill="#8FDBFF" font-family="Arial, sans-serif" font-size="22" letter-spacing="6">SIGNAL BOARD</text>
+  <text x="86" y="170" fill="#F4F0DC" font-family="Georgia, serif" font-size="44" font-weight="700">
+    <tspan x="86" dy="0">A metro-style view of the pressure</tspan>
+    <tspan x="86" dy="48">shaping the next move.</tspan>
+  </text>
+
+  <rect x="86" y="258" width="616" height="244" rx="26" fill="#121A31" stroke="#26314D"/>
+  <rect x="738" y="258" width="616" height="244" rx="26" fill="#121A31" stroke="#26314D"/>
+  <rect x="86" y="530" width="616" height="244" rx="26" fill="#121A31" stroke="#26314D"/>
+  <rect x="738" y="530" width="616" height="244" rx="26" fill="#121A31" stroke="#26314D"/>
+
+  <text x="122" y="306" fill="#96B4FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">GROWTH SYSTEMS</text>
+  <text x="774" y="306" fill="#96B4FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">CONTENT + DEMAND GEN</text>
+  <text x="122" y="578" fill="#96B4FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">SECURITY + CS</text>
+  <text x="774" y="578" fill="#96B4FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">OPS + ENABLEMENT</text>
+
+  <text x="122" y="370" fill="#F4F0DC" font-family="Georgia, serif" font-size="30" font-weight="700">Lifecycle compression</text>
+  <text x="774" y="370" fill="#F4F0DC" font-family="Georgia, serif" font-size="30" font-weight="700">Customer story gravity</text>
+  <text x="122" y="642" fill="#F4F0DC" font-family="Georgia, serif" font-size="30" font-weight="700">Governance pressure</text>
+  <text x="774" y="642" fill="#F4F0DC" font-family="Georgia, serif" font-size="30" font-weight="700">AI assist value</text>
+
+  <text x="122" y="420" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+    <tspan x="122" dy="0">Buyers are moving faster than</tspan>
+    <tspan x="122" dy="28">the current approval path.</tspan>
+  </text>
+  <text x="122" y="478" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="18">
+    <tspan x="122" dy="0">Trim procurement friction on mid-market</tspan>
+    <tspan x="122" dy="26">lanes before the signal decays.</tspan>
+  </text>
+
+  <text x="774" y="420" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+    <tspan x="774" dy="0">Referenceable proof is beating</tspan>
+    <tspan x="774" dy="28">generic promotional copy.</tspan>
+  </text>
+  <text x="774" y="478" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="18">
+    <tspan x="774" dy="0">Attach customer stories to nodes with</tspan>
+    <tspan x="774" dy="26">the strongest expansion pull.</tspan>
+  </text>
+
+  <text x="122" y="692" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+    <tspan x="122" dy="0">Access review drag is landing</tspan>
+    <tspan x="122" dy="28">on enterprise-trust accounts.</tspan>
+  </text>
+  <text x="122" y="750" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="18">
+    <tspan x="122" dy="0">Keep vendor and identity posture next</tspan>
+    <tspan x="122" dy="26">to the commercial timeline.</tspan>
+  </text>
+
+  <text x="774" y="692" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+    <tspan x="774" dy="0">Prompt-guided summaries reduce</tspan>
+    <tspan x="774" dy="28">briefing time with guardrails.</tspan>
+  </text>
+  <text x="774" y="750" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="18">
+    <tspan x="774" dy="0">Use graph confidence to decide what</tspan>
+    <tspan x="774" dy="26">goes straight to leadership.</tspan>
+  </text>
+</svg>
