@@ -1,0 +1,24 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#060914"/>
+  <rect x="36" y="32" width="1368" height="836" rx="30" fill="#0D1122" stroke="#26314D"/>
+  <text x="86" y="108" fill="#8FDBFF" font-family="Arial, sans-serif" font-size="22" letter-spacing="6">CUSTOMER INTELLIGENCE GRAPH</text>
+  <text x="86" y="186" fill="#F4F0DC" font-family="Georgia, serif" font-size="66" font-weight="700">See the commercial story as</text>
+  <text x="86" y="258" fill="#F4F0DC" font-family="Georgia, serif" font-size="66" font-weight="700">connected pressure.</text>
+  <text x="86" y="318" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="28">Accounts, lifecycle, partner influence, risk, and experiments translated into one operating surface.</text>
+  <rect x="86" y="390" width="286" height="190" rx="24" fill="#131A31" stroke="#26314D"/>
+  <rect x="392" y="390" width="286" height="190" rx="24" fill="#131A31" stroke="#26314D"/>
+  <rect x="698" y="390" width="286" height="190" rx="24" fill="#131A31" stroke="#26314D"/>
+  <rect x="1004" y="390" width="286" height="190" rx="24" fill="#131A31" stroke="#26314D"/>
+  <text x="114" y="432" fill="#8EAFFF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">ACCOUNTS IN GRAPH</text>
+  <text x="114" y="508" fill="#F4F0DC" font-family="Georgia, serif" font-size="64" font-weight="700">148</text>
+  <text x="114" y="560" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">Cross-linked across lifecycle, usage, revenue, and support.</text>
+  <text x="420" y="432" fill="#8EAFFF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">EXPANSION PATHS</text>
+  <text x="420" y="508" fill="#F4F0DC" font-family="Georgia, serif" font-size="64" font-weight="700">23</text>
+  <text x="420" y="560" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">Opportunities where usage depth and partner advocacy align.</text>
+  <text x="726" y="432" fill="#8EAFFF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">CHURN CLUSTERS</text>
+  <text x="726" y="508" fill="#F4F0DC" font-family="Georgia, serif" font-size="64" font-weight="700">11</text>
+  <text x="726" y="560" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">Trust, activation, and support pressure converging in one place.</text>
+  <text x="1032" y="432" fill="#8EAFFF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">BRIEFINGS READY</text>
+  <text x="1032" y="508" fill="#F4F0DC" font-family="Georgia, serif" font-size="64" font-weight="700">8</text>
+  <text x="1032" y="560" fill="#A5B2CF" font-family="Arial, sans-serif" font-size="22">Leadership-ready scenarios already translated out of raw signals.</text>
+</svg>

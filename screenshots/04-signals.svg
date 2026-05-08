@@ -1,0 +1,22 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#07101A"/>
+  <rect x="36" y="32" width="1368" height="836" rx="30" fill="#0D1122" stroke="#26314D"/>
+  <text x="86" y="104" fill="#8FDBFF" font-family="Arial, sans-serif" font-size="22" letter-spacing="6">SIGNAL BOARD</text>
+  <text x="86" y="176" fill="#F4F0DC" font-family="Georgia, serif" font-size="60" font-weight="700">A metro-style view of the pressure shaping the next move.</text>
+  <rect x="86" y="248" width="616" height="252" rx="26" fill="#121A31" stroke="#26314D"/>
+  <rect x="738" y="248" width="616" height="252" rx="26" fill="#121A31" stroke="#26314D"/>
+  <rect x="86" y="530" width="616" height="252" rx="26" fill="#121A31" stroke="#26314D"/>
+  <rect x="738" y="530" width="616" height="252" rx="26" fill="#121A31" stroke="#26314D"/>
+  <text x="122" y="296" fill="#96B4FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">GROWTH SYSTEMS</text>
+  <text x="774" y="296" fill="#96B4FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">CONTENT + DEMAND GEN</text>
+  <text x="122" y="578" fill="#96B4FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">SECURITY + CS</text>
+  <text x="774" y="578" fill="#96B4FF" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">OPS + ENABLEMENT</text>
+  <text x="122" y="356" fill="#F4F0DC" font-family="Georgia, serif" font-size="42" font-weight="700">Lifecycle compression</text>
+  <text x="774" y="356" fill="#F4F0DC" font-family="Georgia, serif" font-size="42" font-weight="700">Customer story gravity</text>
+  <text x="122" y="638" fill="#F4F0DC" font-family="Georgia, serif" font-size="42" font-weight="700">Governance pressure</text>
+  <text x="774" y="638" fill="#F4F0DC" font-family="Georgia, serif" font-size="42" font-weight="700">AI assist value</text>
+  <text x="122" y="410" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="28" font-weight="700">High intent buyers are moving faster than the current approval path.</text>
+  <text x="774" y="410" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="28" font-weight="700">Referenceable proof is driving better second-touch conversion than promo copy.</text>
+  <text x="122" y="692" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="28" font-weight="700">Access review drag is hitting the same accounts that carry enterprise trust risk.</text>
+  <text x="774" y="692" fill="#F2EBC7" font-family="Arial, sans-serif" font-size="28" font-weight="700">Prompt-guided account summaries reduce briefing time with confidence thresholds.</text>
+</svg>
