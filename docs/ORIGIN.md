@@ -1,0 +1,20 @@
+# Why We Built This
+
+**customer-intelligence-graph** grew out of repeated work around business operations systems, where the hardest problems were rarely about raw data collection. The real challenge was turning scattered evidence into something humans could govern quickly.
+
+The recurring pressure in this space showed up around signal sprawl, metric ambiguity, and decision work that depends on too many disconnected tools. In practice, that meant teams could collect logs, metrics, workflow state, documents, or events and still not have a good answer to the hardest questions: what is drifting, what matters first, who owns the next move, and what evidence supports that move? Once a system reaches that point, the problem is no longer only technical. It becomes operational.
+
+That is why **customer-intelligence-graph** was built the way it was. The repo is a deliberate attempt to model a real operating layer for RevOps, growth, product operations, and executive teams. It is not just trying to present data attractively or prove that a stack can be wired together. It is trying to show what happens when evidence, prioritization, and next-best action are treated as first-class product concerns.
+
+The surrounding tooling was not useless. CRM reporting, BI dashboards, workflow tools, and spreadsheets each handled a slice of the work. But they still left out a decision layer that could turn fragmented state into priorities, evidence, and next-best action. That gap kept turning ordinary review work into detective work.
+
+That shaped the design philosophy:
+
+- **operator-first** so the riskiest or most time-sensitive signal is surfaced early
+- **decision-legible** so the logic behind a recommendation can be understood by humans under pressure
+- **review-friendly** so the repo supports discussion, governance, and iteration instead of hiding the reasoning
+- **CI-native** so checks and narratives can live close to the build and change process
+
+This repo also avoids trying to be a vague platform for everything. Its value comes from being opinionated about a real problem: React + TypeScript flagship that maps customer, lifecycle, revenue, experimentation, and trust signals into one graph-first decision surface.
+
+What comes next is practical. The roadmap is about deeper metric contracts, stronger scenario tooling, and cleaner bridges between analysis and execution. The point of the repo is to turn that messy middle layer into something teams can actually work with.
