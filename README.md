@@ -74,7 +74,7 @@ Additional implementation notes live in [docs/architecture.md](./docs/architectu
 ## Running Locally
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\customer-intelligence-graph"
+cd customer-intelligence-graph
 npm install
 npm run dev
 ```
